@@ -1,0 +1,20 @@
+.bodylogin {
+	background-image: url(gambar/jumbotron.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 650px;
+
+
+}
+
+.jumbotron {
+	background-image: url(gambar/jumbotron.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 270px;
+
+
+
+}
